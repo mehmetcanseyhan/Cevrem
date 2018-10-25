@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cevrem</string>
+    <string name="konum_al">Konum Al</string>
+    <string name="git">Git</string>
+    <string name="boylam">Boylam</string>
+    <string name="enlem">Enlem</string>
+    <string name="mekan_ad">Mekan Adı</string>
+    <string name="adres">Adres</string>
+    <string name="enlem_boylam">Enlem, Boylam</string>
+</resources>
