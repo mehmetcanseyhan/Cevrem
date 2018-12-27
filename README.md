@@ -1,4 +1,4 @@
-<h1>My Environment Project with Java Android</h1>
+<h1>My Environment </h1>
 I use <a href="https://cloud.google.com/maps-platform/">google-maps-plaform<a> to find nearby places.
 
 <h2> Externally used components</h2>
