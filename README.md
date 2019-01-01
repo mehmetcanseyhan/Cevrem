@@ -6,4 +6,4 @@ I use <a href="https://cloud.google.com/maps-platform/">google-maps-plaform<a> t
 <b>CardView</b> components for better view </br>
 
 <h2> Externally used networking library </h2>
-<a href = "https://github.com/google/volley">Volley</a>
+<a href = "https://github.com/google/volley">Volley</a> provides data get from server
